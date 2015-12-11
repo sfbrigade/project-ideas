@@ -2,5 +2,6 @@
     "tags": [
         "ideas", 
         "discussion"
-    ]
+    ],
+    "comments" : "TESTing out adding a comment. This should not show up in the CfAPI at http://www.codeforamerica.org/api/projects/32309"
 }
